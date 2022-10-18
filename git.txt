@@ -1,2 +1,3 @@
 today is tuesday
 git is created on 18
+todays date is 18
